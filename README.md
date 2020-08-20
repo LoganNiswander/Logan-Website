@@ -1,2 +1,2 @@
 # Logan-Website
-First personal website containing information and links to various other resources. EDIT
+First personal website containing information and links to various other resources. 
